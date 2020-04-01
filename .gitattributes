@@ -1,1 +1,2 @@
-` *.html linguist-language=Babel Javascript`
+*.html linguist-detectable=false
+*.js linguist-detectable=true
